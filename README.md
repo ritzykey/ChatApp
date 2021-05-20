@@ -1,6 +1,8 @@
-# flutter_application_1
+# ChatApp
 
 A new Flutter project.
+
+- [25# Flutter Temel Chat App (Mesajlaşma Uygulaması 2. Versiyon) Flutter ile Mobil Uygulama Geliştirme](https://youtu.be/suq9aPK4D8o?list=PLNRtC6HXL3EDnn4naNGqlQSFqGyMXXWow)
 
 ## Getting Started
 
